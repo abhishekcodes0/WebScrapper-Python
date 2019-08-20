@@ -1,0 +1,810 @@
+ID,Name,Abilities,ImgSrc
+#001,Bulbasaur,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png
+#002,Ivysaur,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png
+#003,Venusaur,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png
+#004,Charmander,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png
+#005,Charmeleon,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png
+#006,Charizard,Fire Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png
+#007,Squirtle,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png
+#008,Wartortle,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png
+#009,Blastoise,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png
+#010,Caterpie,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png
+#011,Metapod,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png
+#012,Butterfree,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png
+#013,Weedle,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png
+#014,Kakuna,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png
+#015,Beedrill,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png
+#016,Pidgey,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png
+#017,Pidgeotto,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png
+#018,Pidgeot,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png
+#019,Rattata,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png
+#020,Raticate,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png
+#021,Spearow,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png
+#022,Fearow,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/022.png
+#023,Ekans,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png
+#024,Arbok,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/024.png
+#025,Pikachu,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png
+#026,Raichu,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png
+#027,Sandshrew,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png
+#028,Sandslash,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png
+#029,Nidoran♀,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/029.png
+#030,Nidorina,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/030.png
+#031,Nidoqueen,Poison Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png
+#032,Nidoran♂,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/032.png
+#033,Nidorino,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png
+#034,Nidoking,Poison Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/034.png
+#035,Clefairy,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png
+#036,Clefable,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/036.png
+#037,Vulpix,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png
+#038,Ninetales,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png
+#039,Jigglypuff,Normal Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png
+#040,Wigglytuff,Normal Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png
+#041,Zubat,Poison Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png
+#042,Golbat,Poison Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/042.png
+#043,Oddish,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png
+#044,Gloom,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/044.png
+#045,Vileplume,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png
+#046,Paras,Bug Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png
+#047,Parasect,Bug Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/047.png
+#048,Venonat,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png
+#049,Venomoth,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png
+#050,Diglett,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png
+#051,Dugtrio,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png
+#052,Meowth,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png
+#053,Persian,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png
+#054,Psyduck,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png
+#055,Golduck,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png
+#056,Mankey,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/056.png
+#057,Primeape,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/057.png
+#058,Growlithe,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png
+#059,Arcanine,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png
+#060,Poliwag,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/060.png
+#061,Poliwhirl,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/061.png
+#062,Poliwrath,Water Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/062.png
+#063,Abra,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/063.png
+#064,Kadabra,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/064.png
+#065,Alakazam,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png
+#066,Machop,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/066.png
+#067,Machoke,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/067.png
+#068,Machamp,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png
+#069,Bellsprout,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/069.png
+#070,Weepinbell,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/070.png
+#071,Victreebel,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png
+#072,Tentacool,Water Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/072.png
+#073,Tentacruel,Water Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png
+#074,Geodude,Rock Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png
+#075,Graveler,Rock Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png
+#076,Golem,Rock Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png
+#077,Ponyta,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/077.png
+#078,Rapidash,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png
+#079,Slowpoke,Water Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/079.png
+#080,Slowbro,Water Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png
+#081,Magnemite,Electric Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/081.png
+#082,Magneton,Electric Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/082.png
+#083,Farfetch'd,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png
+#084,Doduo,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/084.png
+#085,Dodrio,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/085.png
+#086,Seel,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/086.png
+#087,Dewgong,Water Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/087.png
+#088,Grimer,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png
+#089,Muk,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png
+#090,Shellder,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/090.png
+#091,Cloyster,Water Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/091.png
+#092,Gastly,Ghost Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/092.png
+#093,Haunter,Ghost Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/093.png
+#094,Gengar,Ghost Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png
+#095,Onix,Rock Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/095.png
+#096,Drowzee,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/096.png
+#097,Hypno,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/097.png
+#098,Krabby,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/098.png
+#099,Kingler,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png
+#100,Voltorb,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png
+#101,Electrode,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/101.png
+#102,Exeggcute,Grass Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/102.png
+#103,Exeggutor,Grass Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png
+#104,Cubone,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/104.png
+#105,Marowak,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png
+#106,Hitmonlee,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/106.png
+#107,Hitmonchan,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/107.png
+#108,Lickitung,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/108.png
+#109,Koffing,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/109.png
+#110,Weezing,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/110.png
+#111,Rhyhorn,Ground Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/111.png
+#112,Rhydon,Ground Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/112.png
+#113,Chansey,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/113.png
+#114,Tangela,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/114.png
+#115,Kangaskhan,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png
+#116,Horsea,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/116.png
+#117,Seadra,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/117.png
+#118,Goldeen,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/118.png
+#119,Seaking,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/119.png
+#120,Staryu,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/120.png
+#121,Starmie,Water Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/121.png
+#122,Mr. Mime,Psychic Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/122.png
+#123,Scyther,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/123.png
+#124,Jynx,Ice Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/124.png
+#125,Electabuzz,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png
+#126,Magmar,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/126.png
+#127,Pinsir,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png
+#128,Tauros,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png
+#129,Magikarp,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/129.png
+#130,Gyarados,Water Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png
+#131,Lapras,Water Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png
+#132,Ditto,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/132.png
+#133,Eevee,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png
+#134,Vaporeon,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/134.png
+#135,Jolteon,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/135.png
+#136,Flareon,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/136.png
+#137,Porygon,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/137.png
+#138,Omanyte,Rock Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/138.png
+#139,Omastar,Rock Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/139.png
+#140,Kabuto,Rock Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/140.png
+#141,Kabutops,Rock Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/141.png
+#142,Aerodactyl,Rock Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png
+#143,Snorlax,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png
+#144,Articuno,Ice Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png
+#145,Zapdos,Electric Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png
+#146,Moltres,Fire Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png
+#147,Dratini,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/147.png
+#148,Dragonair,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png
+#149,Dragonite,Dragon Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/149.png
+#150,Mewtwo,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png
+#151,Mew,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png
+#152,Chikorita,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/152.png
+#153,Bayleef,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/153.png
+#154,Meganium,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/154.png
+#155,Cyndaquil,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/155.png
+#156,Quilava,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/156.png
+#157,Typhlosion,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/157.png
+#158,Totodile,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/158.png
+#159,Croconaw,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/159.png
+#160,Feraligatr,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/160.png
+#161,Sentret,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/161.png
+#162,Furret,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/162.png
+#163,Hoothoot,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/163.png
+#164,Noctowl,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/164.png
+#165,Ledyba,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/165.png
+#166,Ledian,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/166.png
+#167,Spinarak,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/167.png
+#168,Ariados,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/168.png
+#169,Crobat,Poison Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/169.png
+#170,Chinchou,Water Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/170.png
+#171,Lanturn,Water Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/171.png
+#172,Pichu,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/172.png
+#173,Cleffa,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/173.png
+#174,Igglybuff,Normal Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/174.png
+#175,Togepi,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/175.png
+#176,Togetic,Fairy Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/176.png
+#177,Natu,Psychic Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/177.png
+#178,Xatu,Psychic Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/178.png
+#179,Mareep,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/179.png
+#180,Flaaffy,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/180.png
+#181,Ampharos,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181.png
+#182,Bellossom,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/182.png
+#183,Marill,Water Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/183.png
+#184,Azumarill,Water Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/184.png
+#185,Sudowoodo,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/185.png
+#186,Politoed,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/186.png
+#187,Hoppip,Grass Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/187.png
+#188,Skiploom,Grass Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/188.png
+#189,Jumpluff,Grass Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/189.png
+#190,Aipom,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/190.png
+#191,Sunkern,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/191.png
+#192,Sunflora,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/192.png
+#193,Yanma,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/193.png
+#194,Wooper,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/194.png
+#195,Quagsire,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/195.png
+#196,Espeon,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/196.png
+#197,Umbreon,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/197.png
+#198,Murkrow,Dark Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/198.png
+#199,Slowking,Water Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/199.png
+#200,Misdreavus,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/200.png
+#201,Unown,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/201.png
+#202,Wobbuffet,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/202.png
+#203,Girafarig,Normal Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/203.png
+#204,Pineco,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/204.png
+#205,Forretress,Bug Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/205.png
+#206,Dunsparce,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/206.png
+#207,Gligar,Ground Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/207.png
+#208,Steelix,Steel Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/208.png
+#209,Snubbull,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/209.png
+#210,Granbull,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/210.png
+#211,Qwilfish,Water Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/211.png
+#212,Scizor,Bug Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212.png
+#213,Shuckle,Bug Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/213.png
+#214,Heracross,Bug Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/214.png
+#215,Sneasel,Dark Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/215.png
+#216,Teddiursa,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/216.png
+#217,Ursaring,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/217.png
+#218,Slugma,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/218.png
+#219,Magcargo,Fire Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/219.png
+#220,Swinub,Ice Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/220.png
+#221,Piloswine,Ice Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/221.png
+#222,Corsola,Water Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/222.png
+#223,Remoraid,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/223.png
+#224,Octillery,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/224.png
+#225,Delibird,Ice Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/225.png
+#226,Mantine,Water Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/226.png
+#227,Skarmory,Steel Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/227.png
+#228,Houndour,Dark Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/228.png
+#229,Houndoom,Dark Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/229.png
+#230,Kingdra,Water Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/230.png
+#231,Phanpy,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/231.png
+#232,Donphan,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/232.png
+#233,Porygon2,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/233.png
+#234,Stantler,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/234.png
+#235,Smeargle,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/235.png
+#236,Tyrogue,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/236.png
+#237,Hitmontop,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/237.png
+#238,Smoochum,Ice Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/238.png
+#239,Elekid,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/239.png
+#240,Magby,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/240.png
+#241,Miltank,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/241.png
+#242,Blissey,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/242.png
+#243,Raikou,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/243.png
+#244,Entei,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/244.png
+#245,Suicune,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/245.png
+#246,Larvitar,Rock Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/246.png
+#247,Pupitar,Rock Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/247.png
+#248,Tyranitar,Rock Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/248.png
+#249,Lugia,Psychic Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/249.png
+#250,Ho-Oh,Fire Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/250.png
+#251,Celebi,Psychic Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/251.png
+#252,Treecko,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/252.png
+#253,Grovyle,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/253.png
+#254,Sceptile,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/254.png
+#255,Torchic,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/255.png
+#256,Combusken,Fire Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/256.png
+#257,Blaziken,Fire Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/257.png
+#258,Mudkip,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/258.png
+#259,Marshtomp,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/259.png
+#260,Swampert,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/260.png
+#261,Poochyena,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/261.png
+#262,Mightyena,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/262.png
+#263,Zigzagoon,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/263.png
+#264,Linoone,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/264.png
+#265,Wurmple,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/265.png
+#266,Silcoon,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/266.png
+#267,Beautifly,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/267.png
+#268,Cascoon,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/268.png
+#269,Dustox,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/269.png
+#270,Lotad,Water Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/270.png
+#271,Lombre,Water Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/271.png
+#272,Ludicolo,Water Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/272.png
+#273,Seedot,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/273.png
+#274,Nuzleaf,Grass Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/274.png
+#275,Shiftry,Grass Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/275.png
+#276,Taillow,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/276.png
+#277,Swellow,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/277.png
+#278,Wingull,Water Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/278.png
+#279,Pelipper,Water Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/279.png
+#280,Ralts,Psychic Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/280.png
+#281,Kirlia,Psychic Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/281.png
+#282,Gardevoir,Psychic Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/282.png
+#283,Surskit,Bug Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/283.png
+#284,Masquerain,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/284.png
+#285,Shroomish,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/285.png
+#286,Breloom,Grass Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/286.png
+#287,Slakoth,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/287.png
+#288,Vigoroth,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/288.png
+#289,Slaking,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/289.png
+#290,Nincada,Bug Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/290.png
+#291,Ninjask,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/291.png
+#292,Shedinja,Bug Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/292.png
+#293,Whismur,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/293.png
+#294,Loudred,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/294.png
+#295,Exploud,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/295.png
+#296,Makuhita,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/296.png
+#297,Hariyama,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/297.png
+#298,Azurill,Normal Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/298.png
+#299,Nosepass,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/299.png
+#300,Skitty,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/300.png
+#301,Delcatty,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/301.png
+#302,Sableye,Dark Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/302.png
+#303,Mawile,Steel Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/303.png
+#304,Aron,Steel Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/304.png
+#305,Lairon,Steel Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/305.png
+#306,Aggron,Steel Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/306.png
+#307,Meditite,Fighting Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/307.png
+#308,Medicham,Fighting Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/308.png
+#309,Electrike,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/309.png
+#310,Manectric,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/310.png
+#311,Plusle,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/311.png
+#312,Minun,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/312.png
+#313,Volbeat,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/313.png
+#314,Illumise,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/314.png
+#315,Roselia,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/315.png
+#316,Gulpin,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/316.png
+#317,Swalot,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/317.png
+#318,Carvanha,Water Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/318.png
+#319,Sharpedo,Water Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/319.png
+#320,Wailmer,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/320.png
+#321,Wailord,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/321.png
+#322,Numel,Fire Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/322.png
+#323,Camerupt,Fire Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/323.png
+#324,Torkoal,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/324.png
+#325,Spoink,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/325.png
+#326,Grumpig,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/326.png
+#327,Spinda,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/327.png
+#328,Trapinch,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/328.png
+#329,Vibrava,Ground Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/329.png
+#330,Flygon,Ground Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/330.png
+#331,Cacnea,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/331.png
+#332,Cacturne,Grass Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/332.png
+#333,Swablu,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/333.png
+#334,Altaria,Dragon Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/334.png
+#335,Zangoose,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/335.png
+#336,Seviper,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/336.png
+#337,Lunatone,Rock Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/337.png
+#338,Solrock,Rock Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/338.png
+#339,Barboach,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/339.png
+#340,Whiscash,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/340.png
+#341,Corphish,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/341.png
+#342,Crawdaunt,Water Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/342.png
+#343,Baltoy,Ground Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/343.png
+#344,Claydol,Ground Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/344.png
+#345,Lileep,Rock Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/345.png
+#346,Cradily,Rock Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/346.png
+#347,Anorith,Rock Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/347.png
+#348,Armaldo,Rock Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/348.png
+#349,Feebas,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/349.png
+#350,Milotic,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/350.png
+#351,Castform,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png
+#352,Kecleon,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/352.png
+#353,Shuppet,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/353.png
+#354,Banette,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/354.png
+#355,Duskull,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/355.png
+#356,Dusclops,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/356.png
+#357,Tropius,Grass Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/357.png
+#358,Chimecho,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/358.png
+#359,Absol,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/359.png
+#360,Wynaut,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/360.png
+#361,Snorunt,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/361.png
+#362,Glalie,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/362.png
+#363,Spheal,Ice Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/363.png
+#364,Sealeo,Ice Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/364.png
+#365,Walrein,Ice Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/365.png
+#366,Clamperl,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/366.png
+#367,Huntail,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/367.png
+#368,Gorebyss,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/368.png
+#369,Relicanth,Water Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/369.png
+#370,Luvdisc,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/370.png
+#371,Bagon,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/371.png
+#372,Shelgon,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/372.png
+#373,Salamence,Dragon Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/373.png
+#374,Beldum,Steel Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/374.png
+#375,Metang,Steel Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/375.png
+#376,Metagross,Steel Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/376.png
+#377,Regirock,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/377.png
+#378,Regice,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/378.png
+#379,Registeel,Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/379.png
+#380,Latias,Dragon Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/380.png
+#381,Latios,Dragon Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381.png
+#382,Kyogre,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/382.png
+#383,Groudon,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/383.png
+#384,Rayquaza,Dragon Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png
+#385,Jirachi,Steel Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/385.png
+#386,Deoxys,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png
+#387,Turtwig,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/387.png
+#388,Grotle,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/388.png
+#389,Torterra,Grass Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/389.png
+#390,Chimchar,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/390.png
+#391,Monferno,Fire Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/391.png
+#392,Infernape,Fire Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/392.png
+#393,Piplup,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/393.png
+#394,Prinplup,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/394.png
+#395,Empoleon,Water Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/395.png
+#396,Starly,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/396.png
+#397,Staravia,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/397.png
+#398,Staraptor,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/398.png
+#399,Bidoof,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/399.png
+#400,Bibarel,Normal Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/400.png
+#401,Kricketot,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/401.png
+#402,Kricketune,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/402.png
+#403,Shinx,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/403.png
+#404,Luxio,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/404.png
+#405,Luxray,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/405.png
+#406,Budew,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/406.png
+#407,Roserade,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/407.png
+#408,Cranidos,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/408.png
+#409,Rampardos,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/409.png
+#410,Shieldon,Rock Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/410.png
+#411,Bastiodon,Rock Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/411.png
+#412,Burmy,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/412.png
+#413,Wormadam,Bug Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/413.png
+#414,Mothim,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/414.png
+#415,Combee,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/415.png
+#416,Vespiquen,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/416.png
+#417,Pachirisu,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/417.png
+#418,Buizel,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/418.png
+#419,Floatzel,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/419.png
+#420,Cherubi,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/420.png
+#421,Cherrim,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/421.png
+#422,Shellos,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/422.png
+#423,Gastrodon,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/423.png
+#424,Ambipom,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/424.png
+#425,Drifloon,Ghost Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/425.png
+#426,Drifblim,Ghost Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/426.png
+#427,Buneary,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/427.png
+#428,Lopunny,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/428.png
+#429,Mismagius,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/429.png
+#430,Honchkrow,Dark Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/430.png
+#431,Glameow,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/431.png
+#432,Purugly,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/432.png
+#433,Chingling,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/433.png
+#434,Stunky,Poison Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/434.png
+#435,Skuntank,Poison Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/435.png
+#436,Bronzor,Steel Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/436.png
+#437,Bronzong,Steel Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/437.png
+#438,Bonsly,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/438.png
+#439,Mime Jr.,Psychic Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/439.png
+#440,Happiny,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/440.png
+#441,Chatot,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/441.png
+#442,Spiritomb,Ghost Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/442.png
+#443,Gible,Dragon Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/443.png
+#444,Gabite,Dragon Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/444.png
+#445,Garchomp,Dragon Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/445.png
+#446,Munchlax,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/446.png
+#447,Riolu,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/447.png
+#448,Lucario,Fighting Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/448.png
+#449,Hippopotas,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/449.png
+#450,Hippowdon,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/450.png
+#451,Skorupi,Poison Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/451.png
+#452,Drapion,Poison Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/452.png
+#453,Croagunk,Poison Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/453.png
+#454,Toxicroak,Poison Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/454.png
+#455,Carnivine,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/455.png
+#456,Finneon,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/456.png
+#457,Lumineon,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/457.png
+#458,Mantyke,Water Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/458.png
+#459,Snover,Grass Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/459.png
+#460,Abomasnow,Grass Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/460.png
+#461,Weavile,Dark Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/461.png
+#462,Magnezone,Electric Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/462.png
+#463,Lickilicky,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/463.png
+#464,Rhyperior,Ground Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/464.png
+#465,Tangrowth,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/465.png
+#466,Electivire,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/466.png
+#467,Magmortar,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/467.png
+#468,Togekiss,Fairy Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/468.png
+#469,Yanmega,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/469.png
+#470,Leafeon,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/470.png
+#471,Glaceon,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/471.png
+#472,Gliscor,Ground Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/472.png
+#473,Mamoswine,Ice Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/473.png
+#474,Porygon-Z,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/474.png
+#475,Gallade,Psychic Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/475.png
+#476,Probopass,Rock Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/476.png
+#477,Dusknoir,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/477.png
+#478,Froslass,Ice Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/478.png
+#479,Rotom,Electric Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png
+#480,Uxie,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/480.png
+#481,Mesprit,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/481.png
+#482,Azelf,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/482.png
+#483,Dialga,Steel Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/483.png
+#484,Palkia,Water Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/484.png
+#485,Heatran,Fire Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/485.png
+#486,Regigigas,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/486.png
+#487,Giratina,Ghost Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/487.png
+#488,Cresselia,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/488.png
+#489,Phione,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/489.png
+#490,Manaphy,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/490.png
+#491,Darkrai,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/491.png
+#492,Shaymin,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/492.png
+#493,Arceus,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+#494,Victini,Psychic Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/494.png
+#495,Snivy,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/495.png
+#496,Servine,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/496.png
+#497,Serperior,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/497.png
+#498,Tepig,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/498.png
+#499,Pignite,Fire Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/499.png
+#500,Emboar,Fire Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/500.png
+#501,Oshawott,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/501.png
+#502,Dewott,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/502.png
+#503,Samurott,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/503.png
+#504,Patrat,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/504.png
+#505,Watchog,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/505.png
+#506,Lillipup,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/506.png
+#507,Herdier,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/507.png
+#508,Stoutland,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/508.png
+#509,Purrloin,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/509.png
+#510,Liepard,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/510.png
+#511,Pansage,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/511.png
+#512,Simisage,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/512.png
+#513,Pansear,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/513.png
+#514,Simisear,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/514.png
+#515,Panpour,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/515.png
+#516,Simipour,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/516.png
+#517,Munna,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/517.png
+#518,Musharna,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/518.png
+#519,Pidove,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/519.png
+#520,Tranquill,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/520.png
+#521,Unfezant,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/521.png
+#522,Blitzle,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/522.png
+#523,Zebstrika,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/523.png
+#524,Roggenrola,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/524.png
+#525,Boldore,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/525.png
+#526,Gigalith,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/526.png
+#527,Woobat,Psychic Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/527.png
+#528,Swoobat,Psychic Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/528.png
+#529,Drilbur,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/529.png
+#530,Excadrill,Ground Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/530.png
+#531,Audino,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/531.png
+#532,Timburr,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/532.png
+#533,Gurdurr,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/533.png
+#534,Conkeldurr,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/534.png
+#535,Tympole,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/535.png
+#536,Palpitoad,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/536.png
+#537,Seismitoad,Water Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/537.png
+#538,Throh,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/538.png
+#539,Sawk,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/539.png
+#540,Sewaddle,Bug Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/540.png
+#541,Swadloon,Bug Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/541.png
+#542,Leavanny,Bug Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/542.png
+#543,Venipede,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/543.png
+#544,Whirlipede,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/544.png
+#545,Scolipede,Bug Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/545.png
+#546,Cottonee,Grass Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/546.png
+#547,Whimsicott,Grass Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/547.png
+#548,Petilil,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/548.png
+#549,Lilligant,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/549.png
+#550,Basculin,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/550.png
+#551,Sandile,Ground Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/551.png
+#552,Krokorok,Ground Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/552.png
+#553,Krookodile,Ground Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/553.png
+#554,Darumaka,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/554.png
+#555,Darmanitan,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/555.png
+#556,Maractus,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/556.png
+#557,Dwebble,Bug Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/557.png
+#558,Crustle,Bug Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/558.png
+#559,Scraggy,Dark Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/559.png
+#560,Scrafty,Dark Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/560.png
+#561,Sigilyph,Psychic Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/561.png
+#562,Yamask,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/562.png
+#563,Cofagrigus,Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/563.png
+#564,Tirtouga,Water Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/564.png
+#565,Carracosta,Water Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/565.png
+#566,Archen,Rock Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/566.png
+#567,Archeops,Rock Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/567.png
+#568,Trubbish,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/568.png
+#569,Garbodor,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/569.png
+#570,Zorua,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/570.png
+#571,Zoroark,Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/571.png
+#572,Minccino,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/572.png
+#573,Cinccino,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/573.png
+#574,Gothita,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/574.png
+#575,Gothorita,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/575.png
+#576,Gothitelle,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/576.png
+#577,Solosis,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/577.png
+#578,Duosion,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/578.png
+#579,Reuniclus,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/579.png
+#580,Ducklett,Water Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/580.png
+#581,Swanna,Water Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/581.png
+#582,Vanillite,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/582.png
+#583,Vanillish,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/583.png
+#584,Vanilluxe,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/584.png
+#585,Deerling,Normal Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png
+#586,Sawsbuck,Normal Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png
+#587,Emolga,Electric Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/587.png
+#588,Karrablast,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/588.png
+#589,Escavalier,Bug Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/589.png
+#590,Foongus,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/590.png
+#591,Amoonguss,Grass Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/591.png
+#592,Frillish,Water Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/592.png
+#593,Jellicent,Water Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/593.png
+#594,Alomomola,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/594.png
+#595,Joltik,Bug Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/595.png
+#596,Galvantula,Bug Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/596.png
+#597,Ferroseed,Grass Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/597.png
+#598,Ferrothorn,Grass Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/598.png
+#599,Klink,Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/599.png
+#600,Klang,Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/600.png
+#601,Klinklang,Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/601.png
+#602,Tynamo,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/602.png
+#603,Eelektrik,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/603.png
+#604,Eelektross,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/604.png
+#605,Elgyem,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/605.png
+#606,Beheeyem,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/606.png
+#607,Litwick,Ghost Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/607.png
+#608,Lampent,Ghost Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/608.png
+#609,Chandelure,Ghost Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/609.png
+#610,Axew,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/610.png
+#611,Fraxure,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/611.png
+#612,Haxorus,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/612.png
+#613,Cubchoo,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/613.png
+#614,Beartic,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/614.png
+#615,Cryogonal,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/615.png
+#616,Shelmet,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/616.png
+#617,Accelgor,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/617.png
+#618,Stunfisk,Ground Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/618.png
+#619,Mienfoo,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/619.png
+#620,Mienshao,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/620.png
+#621,Druddigon,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/621.png
+#622,Golett,Ground Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/622.png
+#623,Golurk,Ground Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/623.png
+#624,Pawniard,Dark Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/624.png
+#625,Bisharp,Dark Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/625.png
+#626,Bouffalant,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/626.png
+#627,Rufflet,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/627.png
+#628,Braviary,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/628.png
+#629,Vullaby,Dark Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/629.png
+#630,Mandibuzz,Dark Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/630.png
+#631,Heatmor,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/631.png
+#632,Durant,Bug Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/632.png
+#633,Deino,Dark Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/633.png
+#634,Zweilous,Dark Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/634.png
+#635,Hydreigon,Dark Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/635.png
+#636,Larvesta,Bug Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/636.png
+#637,Volcarona,Bug Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/637.png
+#638,Cobalion,Steel Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/638.png
+#639,Terrakion,Rock Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/639.png
+#640,Virizion,Grass Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/640.png
+#641,Tornadus,Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/641.png
+#642,Thundurus,Electric Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png
+#643,Reshiram,Dragon Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/643.png
+#644,Zekrom,Dragon Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/644.png
+#645,Landorus,Ground Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png
+#646,Kyurem,Dragon Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png
+#647,Keldeo,Water Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/647.png
+#648,Meloetta,Normal Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/648.png
+#649,Genesect,Bug Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/649.png
+#650,Chespin,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/650.png
+#651,Quilladin,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/651.png
+#652,Chesnaught,Grass Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/652.png
+#653,Fennekin,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/653.png
+#654,Braixen,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/654.png
+#655,Delphox,Fire Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/655.png
+#656,Froakie,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/656.png
+#657,Frogadier,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/657.png
+#658,Greninja,Water Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/658.png
+#659,Bunnelby,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/659.png
+#660,Diggersby,Normal Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/660.png
+#661,Fletchling,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/661.png
+#662,Fletchinder,Fire Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/662.png
+#663,Talonflame,Fire Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/663.png
+#664,Scatterbug,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/664.png
+#665,Spewpa,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/665.png
+#666,Vivillon,Bug Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/666.png
+#667,Litleo,Fire Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/667.png
+#668,Pyroar,Fire Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/668.png
+#669,Flabébé,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/669.png
+#670,Floette,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/670.png
+#671,Florges,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/671.png
+#672,Skiddo,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/672.png
+#673,Gogoat,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/673.png
+#674,Pancham,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/674.png
+#675,Pangoro,Fighting Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/675.png
+#676,Furfrou,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png
+#677,Espurr,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/677.png
+#678,Meowstic,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/678.png
+#679,Honedge,Steel Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/679.png
+#680,Doublade,Steel Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/680.png
+#681,Aegislash,Steel Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/681.png
+#682,Spritzee,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/682.png
+#683,Aromatisse,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/683.png
+#684,Swirlix,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/684.png
+#685,Slurpuff,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/685.png
+#686,Inkay,Dark Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/686.png
+#687,Malamar,Dark Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/687.png
+#688,Binacle,Rock Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/688.png
+#689,Barbaracle,Rock Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/689.png
+#690,Skrelp,Poison Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/690.png
+#691,Dragalge,Poison Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/691.png
+#692,Clauncher,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/692.png
+#693,Clawitzer,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/693.png
+#694,Helioptile,Electric Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/694.png
+#695,Heliolisk,Electric Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/695.png
+#696,Tyrunt,Rock Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/696.png
+#697,Tyrantrum,Rock Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/697.png
+#698,Amaura,Rock Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/698.png
+#699,Aurorus,Rock Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/699.png
+#700,Sylveon,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/700.png
+#701,Hawlucha,Fighting Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/701.png
+#702,Dedenne,Electric Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/702.png
+#703,Carbink,Rock Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/703.png
+#704,Goomy,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/704.png
+#705,Sliggoo,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/705.png
+#706,Goodra,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/706.png
+#707,Klefki,Steel Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/707.png
+#708,Phantump,Ghost Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/708.png
+#709,Trevenant,Ghost Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/709.png
+#710,Pumpkaboo,Ghost Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png
+#711,Gourgeist,Ghost Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png
+#712,Bergmite,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/712.png
+#713,Avalugg,Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/713.png
+#714,Noibat,Flying Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/714.png
+#715,Noivern,Flying Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/715.png
+#716,Xerneas,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/716.png
+#717,Yveltal,Dark Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/717.png
+#718,Zygarde,Dragon Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png
+#719,Diancie,Rock Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png
+#720,Hoopa,Psychic Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png
+#721,Volcanion,Fire Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/721.png
+#722,Rowlet,Grass Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/722.png
+#723,Dartrix,Grass Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/723.png
+#724,Decidueye,Grass Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/724.png
+#725,Litten,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/725.png
+#726,Torracat,Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/726.png
+#727,Incineroar,Fire Dark,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/727.png
+#728,Popplio,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/728.png
+#729,Brionne,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/729.png
+#730,Primarina,Water Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/730.png
+#731,Pikipek,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/731.png
+#732,Trumbeak,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/732.png
+#733,Toucannon,Normal Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/733.png
+#734,Yungoos,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/734.png
+#735,Gumshoos,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/735.png
+#736,Grubbin,Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/736.png
+#737,Charjabug,Bug Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/737.png
+#738,Vikavolt,Bug Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/738.png
+#739,Crabrawler,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/739.png
+#740,Crabominable,Fighting Ice,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/740.png
+#741,Oricorio,Fire Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png
+#742,Cutiefly,Bug Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/742.png
+#743,Ribombee,Bug Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/743.png
+#744,Rockruff,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/744.png
+#745,Lycanroc,Rock,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/745.png
+#746,Wishiwashi,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/746.png
+#747,Mareanie,Poison Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/747.png
+#748,Toxapex,Poison Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/748.png
+#749,Mudbray,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/749.png
+#750,Mudsdale,Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/750.png
+#751,Dewpider,Water Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/751.png
+#752,Araquanid,Water Bug,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/752.png
+#753,Fomantis,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/753.png
+#754,Lurantis,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/754.png
+#755,Morelull,Grass Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/755.png
+#756,Shiinotic,Grass Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/756.png
+#757,Salandit,Poison Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/757.png
+#758,Salazzle,Poison Fire,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/758.png
+#759,Stufful,Normal Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/759.png
+#760,Bewear,Normal Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/760.png
+#761,Bounsweet,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/761.png
+#762,Steenee,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/762.png
+#763,Tsareena,Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/763.png
+#764,Comfey,Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/764.png
+#765,Oranguru,Normal Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/765.png
+#766,Passimian,Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/766.png
+#767,Wimpod,Bug Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/767.png
+#768,Golisopod,Bug Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/768.png
+#769,Sandygast,Ghost Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/769.png
+#770,Palossand,Ghost Ground,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/770.png
+#771,Pyukumuku,Water,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/771.png
+#772,Type: Null,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/772.png
+#773,Silvally,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/773.png
+#774,Minior,Rock Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/774.png
+#775,Komala,Normal,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/775.png
+#776,Turtonator,Fire Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/776.png
+#777,Togedemaru,Electric Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/777.png
+#778,Mimikyu,Ghost Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/778.png
+#779,Bruxish,Water Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/779.png
+#780,Drampa,Normal Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/780.png
+#781,Dhelmise,Ghost Grass,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/781.png
+#782,Jangmo-o,Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/782.png
+#783,Hakamo-o,Dragon Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/783.png
+#784,Kommo-o,Dragon Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/784.png
+#785,Tapu Koko,Electric Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/785.png
+#786,Tapu Lele,Psychic Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/786.png
+#787,Tapu Bulu,Grass Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/787.png
+#788,Tapu Fini,Water Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/788.png
+#789,Cosmog,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/789.png
+#790,Cosmoem,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/790.png
+#791,Solgaleo,Psychic Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/791.png
+#792,Lunala,Psychic Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/792.png
+#793,Nihilego,Rock Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/793.png
+#794,Buzzwole,Bug Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/794.png
+#795,Pheromosa,Bug Fighting,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/795.png
+#796,Xurkitree,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/796.png
+#797,Celesteela,Steel Flying,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/797.png
+#798,Kartana,Grass Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/798.png
+#799,Guzzlord,Dark Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/799.png
+#800,Necrozma,Psychic,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png
+#801,Magearna,Steel Fairy,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/801.png
+#802,Marshadow,Fighting Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/802.png
+#803,Poipole,Poison,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/803.png
+#804,Naganadel,Poison Dragon,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/804.png
+#805,Stakataka,Rock Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/805.png
+#806,Blacephalon,Fire Ghost,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/806.png
+#807,Zeraora,Electric,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/807.png
+#808,Meltan,Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/808.png
+#809,Melmetal,Steel,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/809.png
